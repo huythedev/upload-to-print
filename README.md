@@ -9,5 +9,6 @@
 
 ## Usage
 
- * Run `python wsgi.py` or `python3 wsgi.py`
+ * If you want it to run in background, just double click the file **wsgi.pyw**. Else run `python wsgi.py` or `python3 wsgi.py3`
  * Go to `localhost:5000` if you don't change the port in _**config.ini**_ or `localhost:[the port you set in config.ini]` and done :)
+ * To stop the program, open task and **end task** all python processes(if you run in background) or **Ctrl + C** in cmd

@@ -1,4 +1,5 @@
 ## Installation
+ * Install **python** if you doesn't have it on your machine
  * Open cmd in the source code directory
  * Run `pip install requirements.txt` or `pip3 install requirements.txt`
 
